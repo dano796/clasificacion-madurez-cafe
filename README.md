@@ -1,6 +1,8 @@
 # Clasificación de la Madurez de Granos de Café usando Redes Neuronales Convolucionales con PyTorch
 
-<img src="https://www.ocu.org/-/media/ocu/seo/alimentaci%C3%B3n/caf%C3%A9/cafe-vamos-al-grano%201.jpg?la=es-es&rev=ebbf57dd-7b6d-4bf9-8422-8eee2ab73acc&h=338&w=600&hash=0853E5BAD2B7F51DEAB856211D5E1A78&mw=960" alt="Granos de café" width="800">
+![Granos de Café](https://www.ocu.org/-/media/ocu/seo/alimentaci%C3%B3n/caf%C3%A9/cafe-vamos-al-grano%201.jpg?la=es-es&rev=ebbf57dd-7b6d-4bf9-8422-8eee2ab73acc&h=338&w=600&hash=0853E5BAD2B7F51DEAB856211D5E1A78&mw=960)
+
+https://www.ocu.org/-/media/ocu/seo/alimentaci%C3%B3n/caf%C3%A9/cafe-vamos-al-grano%201.jpg?la=es-es&rev=ebbf57dd-7b6d-4bf9-8422-8eee2ab73acc&h=338&w=600&hash=0853E5BAD2B7F51DEAB856211D5E1A78&mw=960
 
 ## Descripción del Proyecto
 
