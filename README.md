@@ -2,8 +2,6 @@
 
 ![Granos de Café](https://www.ocu.org/-/media/ocu/seo/alimentaci%C3%B3n/caf%C3%A9/cafe-vamos-al-grano%201.jpg?la=es-es&rev=ebbf57dd-7b6d-4bf9-8422-8eee2ab73acc&h=338&w=600&hash=0853E5BAD2B7F51DEAB856211D5E1A78&mw=960)
 
-https://www.ocu.org/-/media/ocu/seo/alimentaci%C3%B3n/caf%C3%A9/cafe-vamos-al-grano%201.jpg?la=es-es&rev=ebbf57dd-7b6d-4bf9-8422-8eee2ab73acc&h=338&w=600&hash=0853E5BAD2B7F51DEAB856211D5E1A78&mw=960
-
 ## Descripción del Proyecto
 
 Este proyecto implementa **Redes Neuronales Convolucionales (CNN)** con **PyTorch** para clasificar la madurez de granos de café a partir de imágenes. La clasificación de la madurez es esencial en la industria cafetalera para garantizar la calidad del producto. El repositorio incluye dos cuadernos Jupyter (`rnc_pytorch_cafe.ipynb` y `despliegue_rnc_pytorch_cafe.ipynb`), un documento PDF con la metodología y resultados, y conjuntos de datos para entrenamiento y prueba.
